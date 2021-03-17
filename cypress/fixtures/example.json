@@ -1,0 +1,5 @@
+{
+  "url": "https://reqres.in/api/users/2",
+  "getrequest": "GET",
+  "incorrectUrl":"https://jsonplaceholder.cypress.io/userssss"
+}
